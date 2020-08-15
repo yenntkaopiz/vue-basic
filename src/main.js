@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-
+import { Plugin } from 'vue-fragment'
+Vue.use(Plugin)
 // Define a new component called button-counter
 Vue.component('button-counter', {
     props: ['title'],
