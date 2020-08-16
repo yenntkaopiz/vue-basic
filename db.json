@@ -1,0 +1,19 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "image": "http://lorempixel.com/150/100/",
+      "title": "Product1"
+    },
+    {
+      "id": 2,
+      "image": "http://lorempixel.com/150/100/",
+      "title": "Product2"
+    },
+    {
+      "id": 3,
+      "image": "http://lorempixel.com/150/100/",
+      "title": "Product3"
+    }
+  ]
+}
